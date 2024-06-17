@@ -22,6 +22,6 @@ while True:
 
 
 
-#Nelson oyarsun
+#Nelson oyarzo
 #Diego Benitez
 #Matias caileo
