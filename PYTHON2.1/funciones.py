@@ -8,8 +8,8 @@ def registrar_empleado():
     print("Analista de datos")
     cargo = input("Cargo: ")
     sueldo = float(input("Sueldo: "))
-    pobres={"Nombre": nombre, "Cargo": cargo, "Sueldo": sueldo, "Sueldo Neto": sueldo * 0.83}
-    empleados.append(pobres)
+    trabajadores={"Nombre": nombre, "Cargo": cargo, "Sueldo": sueldo, "Sueldo Neto": sueldo * 0.83}
+    empleados.append(trabajadores)
     print("Empleado registrado!")
 
 def lista_empleados():
